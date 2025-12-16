@@ -29,5 +29,4 @@ To demonstrate end-to-end skills in:
 
 ## ▶️ How to Run
 ```bash
-pip install -r requirements.txt
 streamlit run app.py
